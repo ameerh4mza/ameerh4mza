@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ameer-hamza-10b994278/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/ameerh4mza_"><img src="https://img.shields.io/badge/-X-000000? style=flat-square&logo=x&logoColor=white"/></a>
+   <a href="https://x.com/ameerh4mza_"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white"/></a>
   <a href="mailto:amr,hmza.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=ameerh4mza&color=3eabf7&style=flat-square&label=Profile+Views"/>
 </p>
@@ -32,7 +32,7 @@ I'm a passionate full-stack developer specializing in building modern web applic
 **Frontend**  
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6? style=flat-square&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
@@ -90,7 +90,7 @@ Modern invoice management system for creating and managing professional invoices
 
 **Tech:** TypeScript • Next.js • Tailwind CSS
 
-[![Code](https://img.shields.io/badge/-View_Code-181717? style=flat-square&logo=github)](https://github.com/ameerh4mza/InvoiceForge)
+[![Code](https://img.shields.io/badge/-View_Code-181717?style=flat-square&logo=github)](https://github.com/ameerh4mza/InvoiceForge)
 
 </td>
 <td width="50%">
@@ -156,7 +156,7 @@ const currentGoals = {
 
 I'm always open to interesting conversations and collaboration opportunities! 
 
-[![LinkedIn](https://img.shields.io/badge/-Let's_Connect-0077B5? style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameer-hamza-10b994278/)
+[![LinkedIn](https://img.shields.io/badge/-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameer-hamza-10b994278/)
 [![Email](https://img.shields.io/badge/-Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ameerhamza@example.com)
 [![X](https://img.shields.io/badge/-Follow_Me-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ameerh4mza_)
 
@@ -164,6 +164,6 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 *"Building the future, one commit at a time."* ✨
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom. svg)
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 </div>
