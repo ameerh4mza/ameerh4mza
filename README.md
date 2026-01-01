@@ -111,20 +111,18 @@ Comprehensive inventory tracking system with real-time updates and analytics.
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api? username=ameerh4mza&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel. app/api/top-langs/?username=ameerh4mza&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api? username=ameerh4mza&show_icons=true&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameerh4mza&layout=compact&theme=dark&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/? user=ameerh4mza&theme=algolia&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/? user=ameerh4mza&theme=dark&hide_border=true"/>
 </p>
-
----
 
 ### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/? username=ameerh4mza&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ameerh4mza&theme=darkhub&no-frame=true&column=7"/>
 </p>
 
 ---
@@ -168,6 +166,6 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 *"Building the future, one commit at a time."* ✨
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom. svg)
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 </div>
