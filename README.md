@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ameer-hamza-10b994278/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/ameerh4mza"><img src="https://img.shields.io/badge/-X-000000? style=flat-square&logo=x&logoColor=white"/></a>
+  <a href="https://x.com/ameerh4mza_"><img src="https://img.shields.io/badge/-Follow_Me-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="mailto:ameerhamza@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=ameerh4mza&color=3eabf7&style=flat-square&label=Profile+Views"/>
 </p>
@@ -162,7 +162,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 [![LinkedIn](https://img.shields.io/badge/-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameer-hamza-10b994278/)
 [![Email](https://img.shields.io/badge/-Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ameerhamza@example.com)
-[![X](https://img.shields.io/badge/-Follow_Me-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ameerh4mza)
+[![X](https://img.shields.io/badge/-Follow_Me-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ameerh4mza_)
 
 ---
 
