@@ -108,22 +108,21 @@ Comprehensive inventory tracking system with real-time updates and analytics.
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api? username=ameerh4mza&show_icons=true&theme=dark&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameerh4mza&layout=compact&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ameerh4mza&theme=dark&hide_border=true&background=0D1117&ring=3EABF7&fire=3EABF7&currStreakLabel=3EABF7" alt="GitHub Streak Stats" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/? user=ameerh4mza&theme=dark&hide_border=true"/>
-</p>
+<div align="center">
 
-### 🏆 Achievements
+| 🎯 **Coding Focus** | 📈 **GitHub Activity** | 🌟 **Specialization** |
+|:-------------------:|:----------------------:|:---------------------:|
+| TypeScript, JavaScript, Next.js | Active Daily Contributor | Full-Stack & 3D Web Dev |
+| React, Three.js, Node.js | Building Production Apps | Modern Web Solutions |
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ameerh4mza&theme=darkhub&no-frame=true&column=7"/>
-</p>
+</div>
+
 
 ---
 
