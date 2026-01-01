@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ameer-hamza-10b994278/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/ameerh4mza_"><img src="https://img.shields.io/badge/-x-0077B5?style=flat-square&logo=x&logoColor=white"/></a>
-  <a href="mailto:ameerhamza@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://x.com/ameerh4mza_"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white"/></a>
+  <a href="mailto:amr.hmza.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=ameerh4mza&color=3eabf7&style=flat-square&label=Profile+Views"/>
 </p>
 
