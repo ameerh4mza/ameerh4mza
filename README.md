@@ -1,259 +1,173 @@
 <div align="center">
-  
-# 👋 Hi, I'm Ameer Hamza
 
-<img src="https://readme-typing-svg.herokuapp.com? font=Fira+Code&size=32&duration=2800&pause=2000&color=3EABF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;TypeScript+%26+Next.js+Expert;3D+Web+Developer;Building+Innovative+Solutions" alt="Typing SVG" />
+# Hi there, I'm Ameer Hamza 👋
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ameerh4mza&color=3eabf7&style=for-the-badge)](https://github.com/ameerh4mza)
+### Full-Stack Developer | TypeScript Enthusiast | 3D Web Specialist
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ameer-hamza-10b994278/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/ameerh4mza"><img src="https://img.shields.io/badge/-X-000000? style=flat-square&logo=x&logoColor=white"/></a>
+  <a href="mailto:ameerhamza@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=ameerh4mza&color=3eabf7&style=flat-square&label=Profile+Views"/>
+</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+### 👨‍💻 About Me
 
-```typescript
-const ameerHamza = {
-    pronouns: "He" | "Him",
-    code: ["TypeScript", "JavaScript", "C", "C++", "Python"],
-    technologies: {
-        frontend: ["Next.js", "React", "Three.js", "Tailwind CSS"],
-        backend: ["Node. js", "Express"],
-        databases: ["MongoDB", "PostgreSQL"],
-        tools: ["Docker", "Git", "Vercel"],
-        specialties: ["3D Web Development", "Full-Stack Apps", "UI/UX"]
-    },
-    currentFocus: "Building immersive 3D web experiences",
-    architecture: ["SPA", "SSR", "Microservices"],
-    funFact: "I turn coffee into code and GLB files into interactive experiences ☕✨"
-};
-```
+I'm a passionate full-stack developer specializing in building modern web applications with cutting-edge technologies. I love creating immersive 3D experiences and scalable solutions that make a difference. 
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-### 💬 What I Do
-
-- 🔭 Building **full-stack applications** with Next.js & TypeScript
-- 🎨 Creating **3D interactive experiences** with Three.js
-- 🌱 Mastering **modern web technologies** and best practices
-- 👯 Open to collaborate on **innovative projects**
-- 💡 Passionate about **clean code** and **user experience**
-- ⚡ Fun fact: **TypeScript > JavaScript** 😎
+- 🔭 Currently building interactive 3D web applications with **Three.js** and **Next.js**
+- 💼 Expertise in **TypeScript**, **React**, and **Node.js**
+- 🎨 Passionate about **UI/UX design** and **clean code architecture**
+- 🌱 Always learning and exploring new technologies
+- 🤝 Open to collaborating on innovative projects
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Technical Skills
 
-### 💻 Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,c,cpp,python,html,css,bash" alt="Languages" />
-</p>
+**Frontend**  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### 🎨 Frontend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,threejs,tailwind,css,html,vite,webpack" alt="Frontend" />
-</p>
+**Backend & Database**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-### ⚙️ Backend & Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma,redis" alt="Backend" />
-</p>
+**Tools & Technologies**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
 
-### 🔧 Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,linux,postman,figma" alt="Tools" />
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-  ![Ameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ameerh4mza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-  
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=ameerh4mza&theme=tokyonight&hide_border=true)
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/? username=ameerh4mza&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
+**Languages**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
-## 🏆 GitHub Trophies
+### 🚀 Featured Projects
 
-<div align="center">
-  
-![trophy](https://github-profile-trophy.vercel.app/? username=ameerh4mza&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+<table>
+<tr>
+<td width="50%">
 
-</div>
+#### 🏨 [StayHub](https://github.com/ameerh4mza/StayHub)
+Full-stack hotel booking platform with modern UI and seamless booking management.
 
----
+**Tech:** TypeScript • Next.js • React
 
-## 📈 Contribution Graph
+[![Live Demo](https://img.shields.io/badge/-Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://stay-hub-k9l7.vercel.app/)
+[![Code](https://img.shields.io/badge/-View_Code-181717?style=flat-square&logo=github)](https://github.com/ameerh4mza/StayHub)
 
-<div align="center">
+</td>
+<td width="50%">
 
-[![Ameer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ameerh4mza&theme=tokyo-night&hide_border=true)](https://github.com/ameerh4mza)
+#### 🚗 [ECD GLB Customizer](https://github.com/ameerh4mza/ecd-glb-customizer)
+Interactive 3D car configurator with real-time customization and GLB model rendering.
 
-</div>
+**Tech:** Next.js • Three.js • JavaScript
 
----
+[![Code](https://img.shields.io/badge/-View_Code-181717?style=flat-square&logo=github)](https://github.com/ameerh4mza/ecd-glb-customizer)
 
-## 🎯 Featured Projects
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🏨 StayHub</h3>
-      <div align="center">
-        <p><strong>TypeScript • React • Next.js</strong></p>
-        <p>Full-stack hotel booking platform with modern UI and seamless user experience.  Features include room browsing, booking management, and responsive design.</p>
-        <p>
-          <a href="https://github.com/ameerh4mza/StayHub" target="_blank">
-            <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
-          </a>
-          <a href="https://stay-hub-k9l7.vercel.app/" target="_blank">
-            <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-          </a>
-        </p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🚗 ECD GLB Customizer</h3>
-      <div align="center">
-        <p><strong>Next.js • Three.js • JavaScript</strong></p>
-        <p>Interactive 3D car configurator with real-time customization. Features dynamic color changes, rim selection, and smooth 3D model rendering using GLB files.</p>
-        <p>
-          <a href="https://github.com/ameerh4mza/ecd-glb-customizer" target="_blank">
-            <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
-          </a>
-        </p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📄 InvoiceForge</h3>
-      <div align="center">
-        <p><strong>TypeScript • Next.js • Tailwind CSS</strong></p>
-        <p>Modern invoice management system.  Create, edit, and manage professional invoices with ease.  Built with modern web technologies for optimal performance.</p>
-        <p>
-          <a href="https://github.com/ameerh4mza/InvoiceForge" target="_blank">
-            <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
-          </a>
-        </p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📦 Inventory Management</h3>
-      <div align="center">
-        <p><strong>TypeScript • Next.js</strong></p>
-        <p>Comprehensive inventory tracking system for efficient stock management and analytics. Features real-time updates and an intuitive dashboard. </p>
-        <p>
-          <a href="https://github.com/ameerh4mza/Inventory_Management" target="_blank">
-            <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
-          </a>
-        </p>
-      </div>
-    </td>
-  </tr>
+#### 📄 [InvoiceForge](https://github.com/ameerh4mza/InvoiceForge)
+Modern invoice management system for creating and managing professional invoices.
+
+**Tech:** TypeScript • Next.js • Tailwind CSS
+
+[![Code](https://img.shields.io/badge/-View_Code-181717?style=flat-square&logo=github)](https://github.com/ameerh4mza/InvoiceForge)
+
+</td>
+<td width="50%">
+
+#### 📦 [Inventory Management](https://github.com/ameerh4mza/Inventory_Management)
+Comprehensive inventory tracking system with real-time updates and analytics.
+
+**Tech:** TypeScript • Next.js
+
+[![Code](https://img.shields.io/badge/-View_Code-181717?style=flat-square&logo=github)](https://github.com/ameerh4mza/Inventory_Management)
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 💼 What I'm Working On
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api? username=ameerh4mza&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel. app/api/top-langs/?username=ameerh4mza&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/? user=ameerh4mza&theme=algolia&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/? username=ameerh4mza&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" alt="Trophies"/>
+</p>
+
+---
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ameerh4mza&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ameerh4mza/ameerh4mza/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</p>
+
+---
+
+### 💡 Current Focus
 
 ```typescript
-const currentProjects = {
-    🎨 "3D Web Experiences": "Building interactive 3D configurators with Three.js",
-    🚀 "Full-Stack Apps": "Developing scalable applications with Next.js & TypeScript",
-    📚 "Learning":  "System Design, Cloud Architecture, and Advanced React patterns",
-    🔧 "Open Source": "Contributing to the developer community."
+const currentGoals = {
+  learning: ["System Design", "Cloud Architecture", "Advanced React Patterns"],
+  building: ["3D Interactive Experiences", "Scalable Full-Stack Applications"],
+  exploring: ["AI/ML Integration", "WebGL", "Microservices Architecture"],
+  contributing: "Open Source Projects."
 };
 ```
 
 ---
 
-## 🎓 Skills & Expertise
-
 <div align="center">
 
-| Category | Technologies |
-|----------|-------------|
-| **Frontend** | Next.js • React • TypeScript • Three.js • Tailwind CSS |
-| **Backend** | Node. js • Express • REST APIs • GraphQL |
-| **Database** | MongoDB • PostgreSQL • Prisma |
-| **3D Graphics** | Three.js • GLB Models • WebGL |
-| **DevOps** | Docker • Git • GitHub Actions • Vercel |
-| **Other** | C • C++ • Python • Shell Scripting |
+### 📬 Let's Connect
 
-</div>
+I'm always open to interesting conversations and collaboration opportunities! 
+
+[![LinkedIn](https://img.shields.io/badge/-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameer-hamza-10b994278/)
+[![Email](https://img.shields.io/badge/-Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ameerhamza@example.com)
+[![X](https://img.shields.io/badge/-Follow_Me-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ameerh4mza)
 
 ---
 
-## 📫 Connect With Me
+*"Building the future, one commit at a time."* ✨
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/ameer-hamza-10b994278/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="https://x.com/ameerh4mza" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
-</a>
-
-<a href="mailto:amr.hmza.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-</div>
-
----
-
-## 💖 Support My Work
-
-<div align="center">
-
-If you find my projects helpful or interesting, consider giving them a ⭐! 
-
-**Your support means a lot! ** 🙌
-
-</div>
-
----
-
-<div align="center">
-  
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🐍 Watch my contribution graph get eaten by the snake! 
-
-![snake gif](https://raw.githubusercontent.com/ameerh4mza/ameerh4mza/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ Fun Facts About My Code
-
-```typescript
-const stats = {
-    ☕ coffeeConsumed: "∞",
-    🎯 projectsCompleted: "growing++",
-    🐛 bugsFixed: "console.log('many')",
-    💡 ideasImplemented: "always thinking",
-    🌟 linesOfCode: "quality > quantity"
-};
-```
-
-**Thanks for visiting! Let's build something amazing together! 🚀**
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom. svg)
 
 </div>
