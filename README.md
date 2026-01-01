@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Ameer Hamza
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=3EABF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;TypeScript+%26+Next.js+Expert;3D+Web+Developer;Building+Innovative+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com? font=Fira+Code&size=32&duration=2800&pause=2000&color=3EABF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;TypeScript+%26+Next.js+Expert;3D+Web+Developer;Building+Innovative+Solutions" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ameerh4mza&color=3eabf7&style=for-the-badge)](https://github.com/ameerh4mza)
 
@@ -70,11 +70,11 @@ const ameerHamza = {
 
 <div align="center">
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ameerh4mza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  ![Ameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ameerh4mza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
   
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ameerh4mza&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=ameerh4mza&theme=tokyonight&hide_border=true)
 
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/? username=ameerh4mza&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/? username=ameerh4mza&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
@@ -84,7 +84,7 @@ const ameerHamza = {
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/? username=ameerh4mza&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ameerh4mza)
+![trophy](https://github-profile-trophy.vercel.app/? username=ameerh4mza&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
 
 </div>
 
@@ -105,46 +105,56 @@ const ameerHamza = {
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🚗 ECD GLB Customizer</h3>
+      <h3 align="center">🏨 StayHub</h3>
       <div align="center">
-        <a href="https://github.com/ameerh4mza/ecd-glb-customizer" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameerh4mza&repo=ecd-glb-customizer&theme=tokyonight&hide_border=true" alt="ecd-glb-customizer" />
-        </a>
-        <p><strong>Next.js, Three.js, JavaScript</strong></p>
-        <p>Interactive 3D car configurator with real-time customization.  Features dynamic color changes, rim selection, and smooth 3D model rendering using GLB files.</p>
+        <p><strong>TypeScript • React • Next.js</strong></p>
+        <p>Full-stack hotel booking platform with modern UI and seamless user experience.  Features include room browsing, booking management, and responsive design.</p>
+        <p>
+          <a href="https://github.com/ameerh4mza/StayHub" target="_blank">
+            <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
+          </a>
+          <a href="https://stay-hub-k9l7.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+          </a>
+        </p>
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📄 InvoiceForge</h3>
+      <h3 align="center">🚗 ECD GLB Customizer</h3>
       <div align="center">
-        <a href="https://github.com/ameerh4mza/InvoiceForge" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameerh4mza&repo=InvoiceForge&theme=tokyonight&hide_border=true" alt="InvoiceForge" />
-        </a>
-        <p><strong>TypeScript, Next.js, Tailwind CSS</strong></p>
-        <p>Modern invoice management system.  Create, edit, and manage professional invoices with ease.</p>
-        <p>🔗 <a href="https://invoice-forge.vercel.app" target="_blank">Live Demo</a></p>
+        <p><strong>Next.js • Three.js • JavaScript</strong></p>
+        <p>Interactive 3D car configurator with real-time customization. Features dynamic color changes, rim selection, and smooth 3D model rendering using GLB files.</p>
+        <p>
+          <a href="https://github.com/ameerh4mza/ecd-glb-customizer" target="_blank">
+            <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
+          </a>
+        </p>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🏨 StayHub</h3>
+      <h3 align="center">📄 InvoiceForge</h3>
       <div align="center">
-        <a href="https://github.com/ameerh4mza/StayHub" target="_blank">
-          <img src="https://github-readme-stats.vercel. app/api/pin/?username=ameerh4mza&repo=StayHub&theme=tokyonight&hide_border=true" alt="StayHub" />
-        </a>
-        <p><strong>TypeScript, React, Next.js</strong></p>
-        <p>Full-stack hotel booking platform with modern UI and seamless user experience.</p>
+        <p><strong>TypeScript • Next.js • Tailwind CSS</strong></p>
+        <p>Modern invoice management system.  Create, edit, and manage professional invoices with ease.  Built with modern web technologies for optimal performance.</p>
+        <p>
+          <a href="https://github.com/ameerh4mza/InvoiceForge" target="_blank">
+            <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
+          </a>
+        </p>
       </div>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">📦 Inventory Management</h3>
       <div align="center">
-        <a href="https://github.com/ameerh4mza/Inventory_Management" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameerh4mza&repo=Inventory_Management&theme=tokyonight&hide_border=true" alt="Inventory Management" />
-        </a>
-        <p><strong>TypeScript, Next.js</strong></p>
-        <p>Comprehensive inventory tracking system for efficient stock management and analytics.</p>
+        <p><strong>TypeScript • Next.js</strong></p>
+        <p>Comprehensive inventory tracking system for efficient stock management and analytics. Features real-time updates and an intuitive dashboard. </p>
+        <p>
+          <a href="https://github.com/ameerh4mza/Inventory_Management" target="_blank">
+            <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
+          </a>
+        </p>
       </div>
     </td>
   </tr>
@@ -159,7 +169,7 @@ const currentProjects = {
     🎨 "3D Web Experiences": "Building interactive 3D configurators with Three.js",
     🚀 "Full-Stack Apps": "Developing scalable applications with Next.js & TypeScript",
     📚 "Learning":  "System Design, Cloud Architecture, and Advanced React patterns",
-    🔧 "Open Source": "Contributing to the developer community"
+    🔧 "Open Source": "Contributing to the developer community."
 };
 ```
 
@@ -186,20 +196,16 @@ const currentProjects = {
 
 <div align="center">
 
-<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/ameer-hamza-10b994278/)" target="_blank">
+<a href="https://www.linkedin.com/in/ameer-hamza-10b994278/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<a href="https://x.com/ameerh4mza_" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2? style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+<a href="https://x.com/ameerh4mza" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
 </a>
 
 <a href="mailto:amr.hmza.dev@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<a href="https://YOUR_PORTFOLIO. com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About. me&logoColor=white" alt="Portfolio" />
 </a>
 
 </div>
@@ -212,9 +218,7 @@ const currentProjects = {
 
 If you find my projects helpful or interesting, consider giving them a ⭐! 
 
-<a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
-</a>
+**Your support means a lot! ** 🙌
 
 </div>
 
@@ -226,9 +230,9 @@ If you find my projects helpful or interesting, consider giving them a ⭐!
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🐍 Contribution Snake
+### 🐍 Watch my contribution graph get eaten by the snake! 
 
-![snake gif](https://github.com/ameerh4mza/ameerh4mza/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/ameerh4mza/ameerh4mza/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -248,7 +252,7 @@ const stats = {
 };
 ```
 
-**Thanks for visiting! Let's build something amazing together!  🚀**
+**Thanks for visiting! Let's build something amazing together! 🚀**
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
